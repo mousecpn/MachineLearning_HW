@@ -32,3 +32,4 @@ linux：https://blog.csdn.net/cckavin/article/details/86663352
 pip install -r requirements.txt
 ```
 
+阅读md文件推荐下载typora：https://www.typora.io/
