@@ -1,4 +1,4 @@
-# HW2 MNIST手写体数组识别
+# HW2 MNIST手写体数字识别
 
 ### 1 pytorch环境安装（10）
 
