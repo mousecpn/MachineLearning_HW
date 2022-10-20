@@ -22,8 +22,6 @@ python3.7安装（win10）：https://blog.csdn.net/weixin_43790276/article/detai
 pip install -r requirements.txt
 ```
 
-
-
 **！！！！！建议最好用anaconda配置python环境，简单又方便**
 
 windows：https://blog.csdn.net/weixin_43715458/article/details/100096496
@@ -41,11 +39,7 @@ conda install scikit-learn
 conda install matplotlib
 ```
 
-
-
-阅读md文件推荐下载typora：https://www.typora.io/
-
-
+撰写和阅读md文件推荐下载Mark Text：[GitHub - marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext#download-and-installation)
 
 ### More
 
