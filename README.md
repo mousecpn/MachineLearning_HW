@@ -16,9 +16,12 @@ scipy>=1.1.0
 
 #### 安装
 
-python3.7安装（win10）：https://blog.csdn.net/weixin_43790276/article/details/89439352
+安装有两种方法：
 
 1. pip 安装
+
+python3.7安装（win10）：https://blog.csdn.net/weixin_43790276/article/details/89439352
+
 如果已经有python环境，在终端上运行
 
 ```
