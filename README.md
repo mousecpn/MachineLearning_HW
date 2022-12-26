@@ -1,6 +1,6 @@
 # Machine Learning Homework in CQUT
 
-### 环境
+#### 环境
 
 python==3.7
 
@@ -14,15 +14,17 @@ pandas>=0.23.4
 
 scipy>=1.1.0
 
+#### 安装
+
 python3.7安装（win10）：https://blog.csdn.net/weixin_43790276/article/details/89439352
 
-如果已经有python环境，在终端上运行
+1. 如果已经有python环境，在终端上运行
 
 ```
 pip install -r requirements.txt
 ```
 
-**！！！！！建议最好用anaconda配置python环境，简单又方便**
+**2. ！！！！！建议最好用anaconda配置python环境，简单又方便**
 
 windows：https://blog.csdn.net/weixin_43715458/article/details/100096496
 
@@ -41,7 +43,7 @@ conda install matplotlib
 
 撰写和阅读md文件推荐下载Mark Text：[GitHub - marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext#download-and-installation)
 
-### More
+#### More
 
 关于作业的一切问题，可以直接发邮件咨询chenyang@pku.edu.cn
 
