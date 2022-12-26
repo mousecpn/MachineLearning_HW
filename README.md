@@ -18,13 +18,16 @@ scipy>=1.1.0
 
 python3.7安装（win10）：https://blog.csdn.net/weixin_43790276/article/details/89439352
 
-1. 如果已经有python环境，在终端上运行
+1. pip 安装
+如果已经有python环境，在终端上运行
 
 ```
 pip install -r requirements.txt
 ```
 
-**2. ！！！！！建议最好用anaconda配置python环境，简单又方便**
+2. conda 安装
+
+** ！！！！！建议最好用anaconda配置python环境，简单又方便**
 
 windows：https://blog.csdn.net/weixin_43715458/article/details/100096496
 
