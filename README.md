@@ -1,4 +1,4 @@
-# Machine Learning Homework in CQUT
+# Machine Learning Homework
 
 #### 环境
 
@@ -51,6 +51,6 @@ conda install matplotlib
 
 #### More
 
-关于作业的一切问题，可以直接发邮件咨询chenyang@pku.edu.cn
+关于作业的一切问题，可以直接发邮件咨询chenyang@smbu.edu.cn
 
 或者在issue上留言提问，如果我有时间看的话就会处理大家的问题。
