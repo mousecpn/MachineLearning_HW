@@ -42,7 +42,7 @@ linux：https://blog.csdn.net/cckavin/article/details/86663352
 
 ```
 conda create -n ML python=3.7
-source activate ML
+source activate ML (or conda activate ML)
 conda install scikit-learn
 conda install matplotlib
 ```
