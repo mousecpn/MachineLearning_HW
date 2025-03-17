@@ -1,2 +1,5 @@
 HW2 neural network/data/
 classified/
+.DS_Store
+.ipynb_checkpoints/
+
